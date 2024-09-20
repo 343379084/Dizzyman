@@ -2,7 +2,7 @@
 **************************************
 
 [rewrite_local]
-^https://dlabel\.ctaiot\.com/api/(welfare/list|push/list) url script-response-body https://raw.githubusercontent.com/343379084/shrrr/main/dizzy.js  
+^https://dlabel\.ctaiot\.com/api/(welfare/list|push/list) url script-response-body https://raw.githubusercontent.com/343379084/Dizzyman/refs/heads/main/dizzy.js
 [mitm]
 hostname = dlabel.ctaiot.com
 
